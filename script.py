@@ -13,7 +13,9 @@ else:
     print("Faux")
 
 Q3 = input("La couleur du cheval blanc d'Henry 4? ")
-if Q3 == "blanc"
+if Q3 == "blanc":
     print("Bien vu")
 else:
     print("non")
+    
+print("Good bye")
