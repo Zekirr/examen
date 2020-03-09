@@ -18,4 +18,4 @@ if Q3 == "blanc":
 else:
     print("non")
     
-print("Good bye")
+print("Good bye !")
