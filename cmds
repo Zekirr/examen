@@ -1,0 +1,202 @@
+    1  mkdir dev
+    2  cd dev
+    3  mkdir workspace
+    4  echo bruh
+    5  cowsay yo
+    6  apt install cowsay
+    7  cd workspace/
+    8  mkdir myrepo
+    9  cd myrepo
+   10  ls
+   11  cd dev
+   12  cd c:
+   13  cd
+   14  rm -r dev
+   15  ls
+   16  cd c:
+   17  mkdir dev
+   18  cd dev/
+   19  mkdir workspace
+   20  cd workspace/
+   21  mkdir myrepo
+   22  cd myrepo/
+   23  git init
+   24  cd .git
+   25  ls
+   26  nano description 
+   27  cd myrepo
+   28  cd /c/dev/workspace/myrepo
+   29  nano script.py
+   30  ./script.py
+   31  nano script.py 
+   32  git commit -m "Version 0"
+   33  git add script.py 
+   34  git commit -m "Version 0"
+   35  nano script.py 
+   36  git status
+   37  nano script.py 
+   38  nano script.py 
+   39  git commit -m "Version 1, script hello zekir"
+   40  git add script.py 
+   41  git commit -m "Version 1, script hello zekir"
+   42  cd dev/workspace/myrepo
+   43  cd c/dev/workspace/myrepo
+   44  cd c:
+   45  cd dev
+   46  cd workspace
+   47  cd myrepo
+   48  git log
+   49  git log
+   50  cd dev
+   51  cd dev
+   52  cd C:\dev
+   53  cd workspace/
+   54  git clone https://github.com/ramijohnstone/myrepo.git
+   55  git clone https://github.com/ramijohnstone/myrepo.git
+   56  git log
+   57  cd myrepo/
+   58  git log
+   59  ls
+   60  git checkout -b branchegl
+   61  cd
+   62  cd C:\xammp
+   63  cd C:\xampp\htdocs\R6spotproject
+   64  cd C:\xampp\htdocsgit  
+   65  git clone https://github.com/Zekirr/r6spot.git
+   66  cd C:\xampp\htdocsgit  
+   67  cd C:\xampp\
+   68  cd htdocs
+   69  git clone https://github.com/Zekirr/r6spot.git
+   70  git add R6spotproject
+   71  cd
+   72  cd c:\dev\workspace\r6spot
+   73  cd c:\dev\workspace\
+   74  cd c:/dev
+   75  cd workspace/
+   76  cd r6spot/
+   77  git add R6spotproject/
+   78  git commit R6spotproject/
+   79  git commit *
+   80  git fetch
+   81  git commit *
+   82  cd 
+   83  cd C:/dev/workspace/myrepo
+   84  git add script.py 
+   85  git commit -m "nouvelle branche"
+   86  git push origin master
+   87  git checkout master 
+   88  git checkout master
+   89  git push origin master
+   90  git pull
+   91  git merge
+   92  git push origin master
+   93  git checkout master
+   94  cd c:/dev/workspace
+   95  cd myrepo/
+   96  git pull
+   97  git checkout master 
+   98  git add script.py 
+   99  git commit -m 'test'
+  100  git push origin branchegl
+  101  git checkout master
+  102  git pull
+  103  git checkout master
+  104  git pull 
+  105  git branche -d [branchegl]
+  106  git branch -d [branchegl]
+  107  git branch -d branchegl
+  108  git branch -D branchegl
+  109  git push origin branchegl
+  110  git checkout develop 
+  111  git pull 
+  112  git add script.py 
+  113  git commit -m 'wsh la street'
+  114  git push origin develop 
+  115  git pull
+  116  git checkout master
+  117  git tag -l
+  118  git checkout develop 
+  119  git tag -l
+  120  git tag -L
+  121  gi pull
+  122  git pull
+  123  git pull
+  124  git checkout master
+  125  git -l
+  126  ls
+  127  nano script
+  128  nano script.py
+  129  git ls-tree
+  130  git ls-tree -d
+  131  cd Documents 
+  132  cd
+  133  cd dev
+  134  cd c:
+  135  cd dev
+  136  cd workspace
+  137  git init examen
+  138  ls
+  139  cd examen/
+  140  git add script.py 
+  141  git commit -m "Script hello world"
+  142  git add script.py
+  143  git commit -m "Script HW + Q1"
+  144  git add script.py 
+  145  git commit -m "Script HW+Q1+Q2"
+  146  git add script.py 
+  147  git commit -m "Script HW+Q1+Q2+Q3"
+  148  git log
+  149  git add script.py 
+  150  git commit -m "Script HW+Q1+Q2+Q3+GB"
+  151  git log
+  152  cd c:/workspace/examen
+  153  cd c:/workspace/examen/
+  154  cd /c:/workspace/examen/
+  155  cd c:
+  156  cd workspace
+  157  cd examen
+  158  cd workspaces
+  159  cd dev
+  160  cd workspace/
+  161  cd examen/
+  162  git remote add origin https://github.com/Zekirr/examen.git
+  163  git push -u origin master
+  164  git add script.py 
+  165  git commit -m "edit GB"
+  166  git push origin master
+  167  command git checkout -b developp
+  168  git push origin developp 
+  169  git add script.py 
+  170  git commit -m "Le retour"
+  171  git push origin developp 
+  172  git add script.py 
+  173  git commit -m "Ajout Q4"
+  174  git push origin developp 
+  175  git add script.py 
+  176  git commit -m "Ajout Q4"
+  177  git push origin developp 
+  178  git add script.py 
+  179  git commit -m "Ajout Q5"
+  180  git push origin developp 
+  181  git commit -m "Ajout Q6"
+  182  git add script.py 
+  183  git commit -m "Ajout Q6"
+  184  git push origin developp 
+  185  git checkout master
+  186  git merge developp
+  187  git tag -a V1.0
+  188  git push origin master
+  189  git tag
+  190  git add tag 
+  191  git push origin 1.0
+  192  git push origin V1.0
+  193  git log
+  194  cd c:/dev/workspace/examen
+  195  git checkout 98465b2efbc50a14ad5a9c567571b97a3804b5f9
+  196  git checkout -b hotfix
+  197  git add script.py 
+  198  git commit -m "hotfix bruh"
+  199  git push origin hotfix 
+  200  git checkout master
+  201  touch cmds
+  202  history > cmds
