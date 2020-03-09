@@ -1,6 +1,6 @@
 print("Hello World")
 
-Q1= input("Comment vas tu ?")
+Q1 = input("Comment vas tu ?")
 if Q1 == "bien":
     print("cool")
 else:
@@ -27,3 +27,8 @@ if Q4 == "yes":
 else: 
     print("tant pis")
     
+Q5 = input("60/2? ")
+if q5 == "30":
+    print("bien jouée")
+else:
+    print(faux)
