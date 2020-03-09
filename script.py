@@ -20,3 +20,10 @@ else:
     
 print("Good bye !")
 print("et je suis de retour")
+
+Q4 = input("content de me revoir? ")
+if Q4 == "yes":
+    print("tant mieux")
+else: 
+    print("tant pis")
+    
