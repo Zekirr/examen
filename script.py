@@ -32,3 +32,9 @@ if q5 == "30":
     print("bien jouée")
 else:
     print(faux)
+    
+Q6 = input("150/3 ?")
+if Q6 == "50":
+    print("tu es fort en math")
+else:
+    print("pas ouf")
